@@ -3,3 +3,4 @@ images/
 vis/
 labels/
 .zip
+*.png
